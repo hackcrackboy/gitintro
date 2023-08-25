@@ -1,2 +1,2 @@
 # gitintro
-this is my new changes
+this is my new changeso understanding working of branches
